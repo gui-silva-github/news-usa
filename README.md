@@ -12,22 +12,22 @@ To use this application, users need to have Node.js, Git installed on their mach
 # Como usar?
 
 1. Clone Repository:
-   . Open a terminal.
-   . Navigate to the desired directory where you want to clone the repository.
-   . Execute the following commands:
-          git init
-          git clone https://github.com/gui-silva-github/news-usa.git
+1.1 Open a terminal.
+1.2 Navigate to the desired directory where you want to clone the repository.
+1.3 Execute the following commands:
+1.3.1 git init
+1.3.2 git clone https://github.com/gui-silva-github/news-usa.git
    
 - OBS: You can find the HTTPS clone URL on the GitHub repository page under the "Code" button.
 
 2. Open Code Editor (e.g., Visual Studio Code)
-   . Open the cloned "news-usa" directory using your preferred code editor. 
-   . On Visual Studio Code, you can do this by pressing Ctrl + (backtick) to open the integrated terminal.
+2.1 Open the cloned "news-usa" directory using your preferred code editor. 
+2.2 On Visual Studio Code, you can do this by pressing Ctrl + (backtick) to open the integrated terminal.
 
 3. Run Application
-   . In the opened terminal, navigate into the "news-usa" directory. (cd news-usa)
-   . Execute the following command to start the development server:
-         npm run dev
+3.1 In the opened terminal, navigate into the "news-usa" directory. (cd news-usa)
+3.2 Execute the following command to start the development server:
+3.2.1 npm run dev
 
 # Atenção
 
